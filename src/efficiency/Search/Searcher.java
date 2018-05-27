@@ -1,4 +1,4 @@
-package efficiency;
+package efficiency.Search;
 
 import java.util.stream.IntStream;
 

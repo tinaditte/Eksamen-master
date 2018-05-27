@@ -31,7 +31,6 @@ public class UDPClient {
         InetAddress clientHost = InetAddress.getLocalHost();
         // int         clientPort = 4712; //evt. = Integer.parseInt(args[2]);
 
-
         DatagramSocket socket = new DatagramSocket();// evt. = new DatagramSocket(clientPort); // System choose port#
         //clientPort = socket.getPort();
 

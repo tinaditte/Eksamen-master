@@ -1,4 +1,4 @@
-package efficiency;
+package efficiency.Sort;
 
 public class MergeSorter {
     public static void main(String[] args) {

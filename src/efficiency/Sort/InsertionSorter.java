@@ -1,4 +1,4 @@
-package efficiency;
+package efficiency.Sort;
 
 import java.util.Arrays;
 import java.util.Random;
