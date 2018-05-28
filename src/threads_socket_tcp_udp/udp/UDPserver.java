@@ -11,7 +11,7 @@ import java.util.Random;
 public class UDPserver {
     private static final double LOSS_RATE = 0.1;
     private static int AVERAGE_DELAY = 100; //mm sec.
-    private static final int PORT = 3545;
+    private static final int PORT = 7843;
 
     public static void main(String[] args) {
         //To simulate packets loss

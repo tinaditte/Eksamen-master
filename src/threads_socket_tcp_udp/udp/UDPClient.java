@@ -10,9 +10,6 @@ import java.net.SocketTimeoutException;
 import java.nio.ByteBuffer;
 import java.util.Scanner;
 
-/**
- * Created by tinab on 2/12/2018.
- */
 public class UDPClient {
     private static final int NUMBER_OF_PACKETS = 10;
     private static final int DELAY = 1000;  // milliseconds
